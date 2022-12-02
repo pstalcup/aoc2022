@@ -27,3 +27,10 @@ python3 aoc.py solved dayN ...
 ```
 
 Where N is a number (1 based) representing the day of the puzzle. This will update the `progress.txt` file with all days that have solutions.
+
+
+## Leaderboards
+
+* [Slifty (KOL)](https://adventofcode.com/2022/leaderboard/private/view/2312545)
+* [Personal (TIOS)](https://adventofcode.com/2022/leaderboard/private/view/44598)
+  
